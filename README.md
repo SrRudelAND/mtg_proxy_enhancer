@@ -1,3 +1,5 @@
+# Personal project with 0 expierence, its all vibe coded
+
 # MTG Proxy Enhancer - Requirements and Setup
 
 ## Installation Requirements
